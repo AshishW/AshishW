@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshishW
-- 📚 I’m a student learning Computer Science, Mathematics and Physics with experience in developing web applications using different frontend and backend technology.
+- 📚 I’m a student learning Computer Science, Mathematics and Physics with experience in developing web applications using different frontend and backend technologies.
 - 👨‍💻 I’m currently learning Full-Stack Web Development and I am passionate about Software Development.
 
 <!---
