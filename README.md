@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AshishW
-- 📚 I’m a student learning Computer Science with experience in developing web applications using different frontend and backend technologies.
-- 👨‍💻 I’m currently learning Full-Stack Web Development and I am passionate about Software Development.
+- 📚 I’m a Computer Science student with a solid foundation in web application development, proficient in a variety of frontend and backend technologies.
+- 👨‍💻 Currently enhancing my skills in Full-Stack Web Development, I am committed to mastering the complexities of Software Development.
+- 📑 Expanding my expertise, I am actively exploring the potential of Generative AI, Machine Learning, and Deep Learning to create innovative solutions in technology.
 
 <!---
 AshishW/AshishW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
